@@ -1,0 +1,14 @@
+C:\Users\wramsaur\Documents\wendy\Git\CodeTest\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\wramsaur\Documents\wendy\Git\CodeTest\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\wramsaur\Documents\wendy\Git\CodeTest\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\wramsaur\Documents\wendy\Git\CodeTest\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\wramsaur\Documents\wendy\Git\CodeTest\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\wramsaur\Documents\wendy\Git\CodeTest\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\wramsaur\Documents\wendy\Git\CodeTest\BusinessLogic\bin\Debug\DataLayer.dll
+C:\Users\wramsaur\Documents\wendy\Git\CodeTest\BusinessLogic\bin\Debug\DataModels.dll
+C:\Users\wramsaur\Documents\wendy\Git\CodeTest\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\wramsaur\Documents\wendy\Git\CodeTest\BusinessLogic\bin\Debug\DataLayer.pdb
+C:\Users\wramsaur\Documents\wendy\Git\CodeTest\BusinessLogic\bin\Debug\DataLayer.dll.config
+C:\Users\wramsaur\Documents\wendy\Git\CodeTest\BusinessLogic\bin\Debug\DataModels.pdb
+C:\Users\wramsaur\Documents\wendy\Git\CodeTest\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\wramsaur\Documents\wendy\Git\CodeTest\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
